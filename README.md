@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Photo Gallery</h2>
-In this project, I have use Flexbox to build a responsive photo gallery webpage, <br />The project is built using HTML5 & CSS3.
+In this project, I have use Flexbox to build a responsive photo gallery webpage, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/photo-gallery/"><strong>➥ Live Demo</strong></a>
 
